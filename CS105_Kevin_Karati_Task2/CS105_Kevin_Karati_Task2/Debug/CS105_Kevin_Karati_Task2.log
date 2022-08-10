@@ -1,0 +1,8 @@
+﻿  CS105_Kevin_Karati_Task2.cpp
+C:\Users\270142730\source\repos\CS105_Kevin_Karati_Task2\CS105_Kevin_Karati_Task2\CS105_Kevin_Karati_Task2.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\270142730\source\repos\CS105_Kevin_Karati_Task2\CS105_Kevin_Karati_Task2\CS105_Kevin_Karati_Task2.cpp(121,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\270142730\source\repos\CS105_Kevin_Karati_Task2\CS105_Kevin_Karati_Task2\CS105_Kevin_Karati_Task2.cpp(127,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\270142730\source\repos\CS105_Kevin_Karati_Task2\CS105_Kevin_Karati_Task2\CS105_Kevin_Karati_Task2.cpp(133,6): warning C4101: 'sel': unreferenced local variable
+C:\Users\270142730\source\repos\CS105_Kevin_Karati_Task2\CS105_Kevin_Karati_Task2\CS105_Kevin_Karati_Task2.cpp(50): warning C4715: 'raceSel': not all control paths return a value
+C:\Users\270142730\source\repos\CS105_Kevin_Karati_Task2\CS105_Kevin_Karati_Task2\CS105_Kevin_Karati_Task2.cpp(107): warning C4715: 'charCreate': not all control paths return a value
+  CS105_Kevin_Karati_Task2.vcxproj -> C:\Users\270142730\source\repos\CS105_Kevin_Karati_Task2\Debug\CS105_Kevin_Karati_Task2.exe
